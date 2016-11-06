@@ -10,8 +10,6 @@ public class LoginPageTest extends TestBase{
 	
 	public void testLogin(){
 		loginPageAction.Login("chile", "123456" );
-		
-		
 	}
 
 }
